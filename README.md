@@ -20,40 +20,47 @@ The Project will be getting update ASAP (10th Class is going on so be patient)
 
 
 
-## Requirements
-
- * pyttsx3
- * PyPDF2
- * datetime
- * SpeechRecognition
- * secure-smtplib
- * requests
- * pywhatkit
- * pyjokes
- * pyautogui
- * instaloader
- * googlesearch-python
 
 
+**Note**: Below are instructions for installing the basic requirements to run `appy.py` for Windows & linux
 
-Note: Repository name can be changed Search on google if giving error when installing IN (requirements.txt)
-
-
-## Steps for Installation
-
-Below are instructions for installing the basic requirements to build
-`appy.py` for Windows
-**Note**: CMocka, tcpdump, screen, HostAPd and WPA Supplicant should not be dependencies when packaging Aircrack-ng.
-
-# Installation on Windows & HOW TO RUN THE CODE
+# Installation on Windows & Linux
 ### Steps
       git clone https://github.com/ddsinfotech-offcial/Jarvis-appy.git
       cd Jarvis-appy
       pip3.8 install -r requirement.txt
 ### Running the program
-      python3 jarvis.py
+      python3 jarvis.py or python jarvis.py
 
+# Commands
 
+   #### THIS ARE ALL VOICE COMMAND
+
+    1 :- wikipedia
+    2 :- play music or new song play kar
+    3 :- what is the time
+    4 :- open chrome (Change path) 
+    5 :- open visual studio code or open code (Change path)
+    6 :- open camera
+    7 :- send email (please change required email)
+    8 :- describe yourself or what are you ment for
+    9 :- show commands
+    10 :- search on google
+    11 :- play video on youtube
+    12 :- switch off or  stop or  close 
+    14 :- set alarm
+    15 :- tell me a joke
+    16 :- shut down my laptop
+    17 :- restart my laptop
+    19 :- next tab or switch window
+    20 :- tell me news or latest news
+    21 :- where i am or where are we
+    22 :- search instagram profile  
+    23 :- read pdf (pdf should be there in main folder for these command)
+    24 :- location
+ 
+`Above List will get updated soon`
+ **Note**: (or) is used for multiple commands 
 
 #### CentOS/RHEL 8
 
