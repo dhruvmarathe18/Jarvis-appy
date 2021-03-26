@@ -2,13 +2,13 @@
                                             
 # THE APPY `(Artificial Intelligence Model)`
 
-## Developer 
-   <a href="https://instagram.com/dhruvmarathe">DHRUV MARATHE</a>
-## What is APPY ?
-
 APPY is an Artificial Intelligence model developed by <a href="https://ddsinfotech.tk">DDSINFOTECH</a> 
 APPY can serve you with the daily tasks and many more things.
 The Project will be getting update ASAP (10th Class is going on so be patient)
+
+## Developer 
+   <a href="https://instagram.com/dhruvmarathe">DHRUV MARATHE</a>
+
 
 ## Social Media	Links 	
 
