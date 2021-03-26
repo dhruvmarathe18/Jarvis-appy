@@ -3,10 +3,10 @@
 # THE APPY `(Artificial Intelligence Model)`
 
 ## Developer 
-   DHRUV MARATHE 
+   <a href="https://instagram.com/dhruvmarathe">DHRUV MARATHE</a>
 ## What is APPY ?
 
-APPY is an Artificial Intelligence model developed by DDSINFOTECH 
+APPY is an Artificial Intelligence model developed by <a href="https://ddsinfotech.tk">DDSINFOTECH</a> 
 APPY can serve you with the daily tasks and many more things.
 The Project will be getting update ASAP (10th Class is going on so be patient)
 
@@ -66,7 +66,7 @@ The Project will be getting update ASAP (10th Class is going on so be patient)
 
 Soon will be updated 
 
-# About DDSINFOTECH
+# About <a href="https://ddsinfotech.tk">DDSINFOTECH</a>
    My name is Dhruv Marathe, I'm a 16 year old computer enthusiast. I'm currently studying in Dps, Nashik, And Being a CEO of Company named DDS Infotech.
 
 <a href="https://ddsinfotech.tk/"><img src="https://ddsinfotech.tk/Logo.jpg" alt="MacStadium" width="20%" height="20%">
