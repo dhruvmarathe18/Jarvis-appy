@@ -1,6 +1,6 @@
-                                             <h1>THIS IS OFFICIAL PROJECT FROM DDSINFOTECH</h1> 
+                                             HIS IS OFFICIAL PROJECT FROM DDSINFOTECH
 
-PROJECT NAME -:  THE APPY (AI)
+#PROJECT NAME -:  THE APPY (AI)
 
 CREATOR -: DHRUV MARATHE
  -----------------------------------------------------------------
