@@ -103,7 +103,7 @@ Soon will be updated
     </div>
 </div>
                                                 
-                                                     Copyright 2020 ~ Dhruv Marathe  
+                                           Copyright 2020 ~ Dhruv Marathe  
 
 
 
