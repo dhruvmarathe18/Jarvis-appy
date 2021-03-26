@@ -1,4 +1,4 @@
-                                             THIS IS OFFICIAL PROJECT FROM DDSINFOTECH 
+                                             <h1>THIS IS OFFICIAL PROJECT FROM DDSINFOTECH</h1> 
 
 PROJECT NAME -:  THE APPY (AI)
 
@@ -18,8 +18,14 @@ Steps for installation
              what is the time
                    tell me a joke 
                    next tab
-                   etc......
-	 
-	 
+                   etc......	 
 NOTE:- These are all voice command 				
-}
+--------------------------Social Media Links----------------------------
+
+    Instgram: https://instagram.com/ddsinfotech or https://instagram.com/dhruvmarathe
+    Twitter:  https://twitter.com/dhruvmarathe18
+    Linkden:  https://in.linkedin.com/in/dds-infotech-a274581b8
+    Youtube:  https://www.youtube.com/channel/UCi9eDPoQktxRL6VRsJVJrgQ/videos
+    Email:    dhruvmarathe18@gmail.com  
+    website:  https://ddsinfotech.tk
+    Github:   https://github.com/ddsinfotech-offcial/
