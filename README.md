@@ -76,7 +76,7 @@ For further information check the [README](README) file
 
 # About DDSINFOTECH
 
-<img src="https://ddsinfotech.tk/Logo.jpg" alt="MacStadium" width="20%" height="20%">
+<a href="https://ddsinfotech.tk/"><img src="https://ddsinfotech.tk/Logo.jpg" alt="MacStadium" width="20%" height="20%">
 
 
 
