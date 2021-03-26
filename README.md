@@ -72,6 +72,39 @@ Soon will be updated
 <a href="https://ddsinfotech.tk/"><img src="https://ddsinfotech.tk/Logo.jpg" alt="MacStadium" width="20%" height="20%">
 
 
+<!--------- Footer -------->
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            </div>
+            <div class="footer-col-3">
+                <h3>ALL LINKS FOR WEBSITE </h3>
+                <ul>
+                    <li>Home : <a class="links_footer" href="https://ddsinfotech.tk"><br>https://ddsinfotech.tk</a></li><br>
+                    <li>My Games : <a class="links_footer" href="https://ddsinfotech.tk/Games"><br>https://ddsinfotech.tk/Games</a></li><br>
+                    <li>Business : <a class="links_footer" href="https://ddsinfotech.tk/Business"><br>https://ddsinfotech.tk/Business</a></li><br>
+                    <li>Blog : <a class="links_footer" href="https://ddsinfotech.tk/Blog/Blog"><br>https://ddsinfotech.tk/Blog/Blog</a></li><br>
+                    <li>Contact : <a class="links_footer" href="https://ddsinfotech.tk/Contact"><br>https://ddsinfotech.tk/Contact</a></li><br>
+                    <li>Download Open World Game  : <a class="links_footer" href="https://ddsinfotech.tk/FreeGamesPage/AllPCGame/Open_world_games/All_open_world_games">                             <br>https://ddsinfotech.tk/FreeGamesPage/AllPCGame/Open_world_games/All_open_world_games</a></li><br>
+                </ul>
+            </div>
+            <div class="footer-col-4">
+                <h3>Follow Us</h3>
+                <ul>
+                    <li><a href="https://en-gb.facebook.com/dhruv.marathe.79">Facebook</li></a>
+                    <li><a href="https://www.instagram.com/dhruvmarathe/">Instagram</li></a> 
+                    <li>Twitter</li>
+                    <li>Telegram </li>
+                </ul>
+            </div>
+        </div>
+        <hr>
+        <p class="copyright">Copyright 2020 ~ Dhruv Marathe </p>
+    </div>
+</div>
+
+
 
 
 
