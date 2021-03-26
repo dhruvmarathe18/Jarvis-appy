@@ -1,0 +1,12 @@
+pyttsx3
+PyPDF2
+datetime
+SpeechRecognition
+wikipedia
+secure-smtplib
+requests
+pywhatkit
+pyjokes
+pyautogui
+instaloader
+googlesearch-python

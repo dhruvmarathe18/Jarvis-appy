@@ -1,0 +1,45 @@
+Here are the commands for the project Appy (AI Assistant)
+------------------------------------------------------------------------------------------------------------------
+Creator -: Dhruv Marathe(DDSINFOTECH)
+Github :- 
+Note01 :- Please Read (Readme.txt) before proceeding 
+Nite02 :- Install all dependenci(It's in the file requirement.txt)
+Note03 :- Down listed are all voice commands(Some Multiple commands can do one thing they are listed with or)
+Give Credit :- https://ddsinfotech.tk
+-------------------------------------------------------------------------------------------------------------------
+THIS ARE ALL VOICE COMMAND
+
+1 :- wikipedia
+2 :- play music or new song play kar
+3 :- what is the time
+4 :- open chrome (Change path in code) 
+5 :- open visual studio code or open code (Change path in code)
+6 :- open camera
+7 :- send email (please change required email)
+8 :- describe yourself or what are you ment for
+9 :- show commands
+10 :- search on google
+11 :- play video on youtube
+12 :- switch off or  stop or  close 
+14 :- set alarm
+15 :- tell me a joke
+16 :- shut down my laptop
+17 :- restart my laptop
+19 :- next tab or switch window
+20 :- tell me news or latest news
+21 :- where i am or where are we
+22 :- search instagram profile  
+23 :- read pdf (pdf should be there in main folder for these command)
+24 :- location
+----------------------------------------------------------------------------------------------------------------
+{Above List will get update soon. Contact me at my Social Media Flat Form if some problem occurs :
+
+    Instgram: https://instagram.com/ddsinfotech or https://instagram.com/dhruvmarathe
+    Twitter:  https://twitter.com/dhruvmarathe18
+    Linkden:  https://in.linkedin.com/in/dds-infotech-a274581b8
+    Youtube:  https://www.youtube.com/channel/UCi9eDPoQktxRL6VRsJVJrgQ/videos
+    Email:    dhruvmarathe18@gmail.com  
+    website:  https://ddsinfotech.tk
+} 
+
+
