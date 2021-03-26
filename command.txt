@@ -1,7 +1,7 @@
 Here are the commands for the project Appy (AI Assistant)
 ------------------------------------------------------------------------------------------------------------------
 Creator -: Dhruv Marathe(DDSINFOTECH)
-Github :- 
+Github :- https://github.com/ddsinfotech-offcial/
 Note01 :- Please Read (Readme.txt) before proceeding 
 Nite02 :- Install all dependenci(It's in the file requirement.txt)
 Note03 :- Down listed are all voice commands(Some Multiple commands can do one thing they are listed with or)
@@ -40,6 +40,7 @@ THIS ARE ALL VOICE COMMAND
     Youtube:  https://www.youtube.com/channel/UCi9eDPoQktxRL6VRsJVJrgQ/videos
     Email:    dhruvmarathe18@gmail.com  
     website:  https://ddsinfotech.tk
+    Github:   https://github.com/ddsinfotech-offcial/
 } 
 
 
