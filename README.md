@@ -3,11 +3,12 @@
 #PROJECT NAME -:  THE APPY (AI)
 
 CREATOR -: DHRUV MARATHE
- -----------------------------------------------------------------
-"APPY" is an Artificial model developed by DDSINFOTECH  
-APPY can serve you with the daily task  (ON windows 10)
+# What is APPY
+
+APPY is an Artificial model developed by DDSINFOTECH  
+APPY can serve you with the daily tasks and many more things 
 The Project will be getting update ASAP (10th Class is going on so be patient)
--------------------------------------------------------------------
+
 # Social Media				
 
     Instgram: https://instagram.com/ddsinfotech or https://instagram.com/dhruvmarathe
