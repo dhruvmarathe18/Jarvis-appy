@@ -67,15 +67,12 @@ The Project will be getting update ASAP (10th Class is going on so be patient)
 
 ## Documentation
 
-
-Documentation, tutorials, ... can be found on https://aircrack-ng.org
-
-See also manpages and the forum.
+Soon will be updated 
 
 For further information check the [README](README) file
 
 # About DDSINFOTECH
-    My name is Dhruv Marathe, I'm a 16 year old computer enthusiast. I'm currently studying in Dps, Nashik, And Being a CEO of Company named DDS Infotech.
+   My name is Dhruv Marathe, I'm a 16 year old computer enthusiast. I'm currently studying in Dps, Nashik, And Being a CEO of Company named DDS Infotech.
 
 <a href="https://ddsinfotech.tk/"><img src="https://ddsinfotech.tk/Logo.jpg" alt="MacStadium" width="20%" height="20%">
 
