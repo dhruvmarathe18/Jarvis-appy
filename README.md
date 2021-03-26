@@ -10,16 +10,20 @@ APPY is an Artificial Intelligence model developed by <a href="https://ddsinfote
 APPY can serve you with the daily tasks and many more things.
 The Project will be getting update ASAP (10th Class is going on so be patient)
 
-## Social Media	Links 			
+## Social Media	Links 	
 
-     Instgram: https://instagram.com/ddsinfotech or https://instagram.com/dhruvmarathe
-     Twitter:  https://twitter.com/dhruvmarathe18
-     Linkden:  https://in.linkedin.com/in/dds-infotech-a274581b8
-     Youtube:  https://www.youtube.com/channel/UCi9eDPoQktxRL6VRsJVJrgQ/videos
-     Email:    dhruvmarathe18@gmail.com  
-     website:  https://ddsinfotech.tk
-     Github:   https://github.com/ddsinfotech-offcial/
-
+<div class="footer-col-4">
+                <ul>
+                    <li><a href="mailto:dhruvmarathe18@gmail.com">Email</li></a>
+                    <li><a href="https://instagram.com/dhruvmarathe">Instagram</li></a>
+                    <li><a href="https://twitter.com/dhruvmarathe18">Twitter</li></a> 
+                    <li><a href="https://in.linkedin.com/in/dds-infotech-a274581b8">Linkden</li></a>
+                    <li><a href="https://www.youtube.com/channel/UCi9eDPoQktxRL6VRsJVJrgQ/videos">Youtube</li></a>
+                    <li><a href="https://ddsinfotech.tk">website</li></a>
+                    <li><a href="https://github.com/ddsinfotech-offcial/">Github</li></a>
+                    <li><a href="https://t.me/ddshacking">Telegram</li></a>
+                </ul>
+            </div>
 
 **Note**: Below are instructions for installing and to run `appy.py` for Windows & linux
 
