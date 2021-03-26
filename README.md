@@ -1,4 +1,4 @@
-                                            OFFICIAL PROJECT FROM DDSINFOTECH https://instagram.com/ddsinfotech
+                                            OFFICIAL PROJECT FROM DDSINFOTECH 
                                             
 # THE APPY `(Artificial Intelligence Model)`
 
@@ -12,13 +12,13 @@ The Project will be getting update ASAP (10th Class is going on so be patient)
 
 ## Social Media	Links 			
 
-    Instgram: https://instagram.com/ddsinfotech or https://instagram.com/dhruvmarathe
-    Twitter:  https://twitter.com/dhruvmarathe18
-    Linkden:  https://in.linkedin.com/in/dds-infotech-a274581b8
-    Youtube:  https://www.youtube.com/channel/UCi9eDPoQktxRL6VRsJVJrgQ/videos
-    Email:    dhruvmarathe18@gmail.com  
-    website:  https://ddsinfotech.tk
-    Github:   https://github.com/ddsinfotech-offcial/
+   Instgram: https://instagram.com/ddsinfotech or https://instagram.com/dhruvmarathe
+   Twitter:  https://twitter.com/dhruvmarathe18
+   Linkden:  https://in.linkedin.com/in/dds-infotech-a274581b8
+   Youtube:  https://www.youtube.com/channel/UCi9eDPoQktxRL6VRsJVJrgQ/videos
+   Email:    dhruvmarathe18@gmail.com  
+   website:  https://ddsinfotech.tk
+   Github:   https://github.com/ddsinfotech-offcial/
 
 
 
