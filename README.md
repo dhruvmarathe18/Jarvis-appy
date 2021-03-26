@@ -69,8 +69,6 @@ The Project will be getting update ASAP (10th Class is going on so be patient)
 
 Soon will be updated 
 
-For further information check the [README](README) file
-
 # About DDSINFOTECH
    My name is Dhruv Marathe, I'm a 16 year old computer enthusiast. I'm currently studying in Dps, Nashik, And Being a CEO of Company named DDS Infotech.
 
