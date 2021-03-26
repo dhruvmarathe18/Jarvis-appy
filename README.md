@@ -8,18 +8,7 @@ CREATOR -: DHRUV MARATHE
 APPY can serve you with the daily task  (ON windows 10)
 The Project will be getting update ASAP (10th Class is going on so be patient)
 -------------------------------------------------------------------
-Steps for installation
-	Step 0:- Install Python 
-	Step 1:- Clone Repository (git clone https://github.com/ddsinfotech-offcial/Jarvis.git)
-	Step 2:- Install all Dependency( pip install -r requirements.txt  OR pip3 install -r requirements.txt )
-	Step 3:- Go through commands.txt all commands are listed for JARVIS/APPY 
-	Step 4:- Most Important Step (How to use APPY ):	
-            Example Voice Command:-
-             what is the time
-                   tell me a joke 
-                   next tab
-                   etc......	 
-NOTE:- These are all voice command 				
+# Social Media				
 
     Instgram: https://instagram.com/ddsinfotech or https://instagram.com/dhruvmarathe
     Twitter:  https://twitter.com/dhruvmarathe18
@@ -47,30 +36,13 @@ NOTE:- These are all voice command
 
 
 
-Note: Airmon-ng only requires pciutils if the system has a PCI/PCIe bus and it is populated.
-      Such bus can be present even if not physically visible. For example, it is present,
-      and populated on the Raspberry Pi 4, therefore pciutils is required on that device.
+Note: Repository name can be changed Search on google if giving error when installing IN (requirements.txt)
 
-## Optional stuff
 
- * If you want SSID filtering with regular expression in airodump-ng
-   (-essid-regex) pcre development package is required.
- * If you want to use airolib-ng and '-r' option in aircrack-ng,
-   SQLite development package >= 3.3.17 (3.6.X version or better is recommended)
- * If you want to use Airpcap, the 'developer' directory from the CD/ISO/SDK is required.
- * In order to build `besside-ng`, `besside-ng-crawler`, `easside-ng`, `tkiptun-ng` and `wesside-ng`,
-   libpcap development package is required (on Cygwin, use the Aircap SDK instead; see above)
- * rfkill
- * If you want Airodump-ng to log GPS coordinates, gpsd is needed
- * For best performance on SMP machines, ensure the hwloc library and headers are installed. It is strongly recommended on high core count systems, it may give a serious speed boost
- * CMocka for unit testing
- * For integration testing on Linux only: tcpdump, HostAPd, WPA Supplicant and screen
-
-## Installing required and optional dependencies
+## Steps for Installation
 
 Below are instructions for installing the basic requirements to build
-`aircrack-ng` for a number of operating systems.
-
+`jarvis.py` for Windows
 **Note**: CMocka, tcpdump, screen, HostAPd and WPA Supplicant should not be dependencies when packaging Aircrack-ng.
 
 ### Linux
