@@ -12,13 +12,13 @@ The Project will be getting update ASAP (10th Class is going on so be patient)
 
 ## Social Media	Links 			
 
-   Instgram: https://instagram.com/ddsinfotech or https://instagram.com/dhruvmarathe
-   Twitter:  https://twitter.com/dhruvmarathe18
-   Linkden:  https://in.linkedin.com/in/dds-infotech-a274581b8
-   Youtube:  https://www.youtube.com/channel/UCi9eDPoQktxRL6VRsJVJrgQ/videos
-   Email:    dhruvmarathe18@gmail.com  
-   website:  https://ddsinfotech.tk
-   Github:   https://github.com/ddsinfotech-offcial/
+     Instgram: https://instagram.com/ddsinfotech or https://instagram.com/dhruvmarathe
+     Twitter:  https://twitter.com/dhruvmarathe18
+     Linkden:  https://in.linkedin.com/in/dds-infotech-a274581b8
+     Youtube:  https://www.youtube.com/channel/UCi9eDPoQktxRL6VRsJVJrgQ/videos
+     Email:    dhruvmarathe18@gmail.com  
+     website:  https://ddsinfotech.tk
+     Github:   https://github.com/ddsinfotech-offcial/
 
 
 
@@ -63,80 +63,6 @@ The Project will be getting update ASAP (10th Class is going on so be patient)
  
 `Above List will get updated soon`
  **Note**: (or) is used for multiple commands 
-
-#### CentOS/RHEL 8
-
-    sudo yum config-manager --set-enabled powertools
-    sudo yum install epel-release
-    sudo yum install libtool pkgconfig sqlite-devel autoconf automake openssl-devel libpcap-devel pcre-devel rfkill libnl3-devel gcc gcc-c++ ethtool hwloc-devel libcmocka-devel make file expect hostapd wpa_supplicant iw usbutils tcpdump screen zlib-devel
-
-#### openSUSE
-
-    sudo zypper install autoconf automake libtool pkg-config libnl3-devel libopenssl-1_1-devel zlib-devel libpcap-devel sqlite3-devel pcre-devel hwloc-devel libcmocka-devel hostapd wpa_supplicant tcpdump screen iw gcc-c++ gcc ethtool pciutils usbutils
-
-#### Mageia
-
-    sudo urpmi autoconf automake libtool pkgconfig libnl3-devel libopenssl-devel zlib-devel libpcap-devel sqlite3-devel pcre-devel hwloc-devel libcmocka-devel hostapd wpa_supplicant tcpdump screen iw gcc-c++ gcc make
-
-#### Alpine
-
-    sudo apk add gcc g++ make autoconf automake libtool libnl3-dev openssl-dev ethtool libpcap-dev cmocka-dev hostapd wpa_supplicant tcpdump screen iw pkgconf util-linux sqlite-dev pcre-dev linux-headers zlib-dev pciutils usbutils
-
-**Note**: Community repository needs to be enabled for iw
-
-### BSD
-
-#### FreeBSD
-
-    pkg install pkgconf shtool libtool gcc9 automake autoconf pcre sqlite3 openssl gmake hwloc cmocka
-
-#### DragonflyBSD
-
-    pkg install pkgconf shtool libtool gcc8 automake autoconf pcre sqlite3 libgcrypt gmake cmocka
-
-#### OpenBSD
-
-    pkg_add pkgconf shtool libtool gcc automake autoconf pcre sqlite3 openssl gmake cmocka
-
-### OSX
-
-XCode, Xcode command line tools and HomeBrew are required.
-
-    brew install autoconf automake libtool openssl shtool pkg-config hwloc pcre sqlite3 libpcap cmocka
-
-### Windows
-
-#### Cygwin
-
-Cygwin requires the full path to the `setup.exe` utility, in order to
-automate the installation of the necessary packages. In addition, it
-requires the location of your installation, a path to the cached
-packages download location, and a mirror URL.
-
-An example of automatically installing all the dependencies
-is as follows:
-
-    c:\cygwin\setup-x86.exe -qnNdO -R C:/cygwin -s http://cygwin.mirror.constant.com -l C:/cygwin/var/cache/setup -P autoconf -P automake -P bison -P gcc-core -P gcc-g++ -P mingw-runtime -P mingw-binutils -P mingw-gcc-core -P mingw-gcc-g++ -P mingw-pthreads -P mingw-w32api -P libtool -P make -P python -P gettext-devel -P gettext -P intltool -P libiconv -P pkg-config -P git -P wget -P curl -P libpcre-devel -P libssl-devel -P libsqlite3-devel
-
-#### MSYS2
-
-    pacman -Sy autoconf automake-wrapper libtool msys2-w32api-headers msys2-w32api-runtime gcc pkg-config git python openssl-devel openssl libopenssl msys2-runtime-devel gcc binutils make pcre-devel libsqlite-devel
-
-## Compiling
-
-To build `aircrack-ng`, the Autotools build system is utilized. Autotools replaces
-the older method of compilation.
-
-**NOTE**: If utilizing a developer version, eg: one checked out from source control,
-you will need to run a pre-`configure` script. The script to use is one of the
-following: `autoreconf -i` or `env NOCONFIGURE=1 ./autogen.sh`.
-
-First, `./configure` the project for building with the appropriate options specified
-for your environment:
-
-    ./configure <options>
-
-**TIP**: If the above fails, please see above about developer source control versions.
 
 Next, compile the project (respecting if `make` or `gmake` is needed):
 
