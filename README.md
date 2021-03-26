@@ -75,6 +75,7 @@ See also manpages and the forum.
 For further information check the [README](README) file
 
 # About DDSINFOTECH
+    My name is Dhruv Marathe, I'm a 16 year old computer enthusiast. I'm currently studying in Dps, Nashik, And Being a CEO of Company named DDS Infotech.
 
 <a href="https://ddsinfotech.tk/"><img src="https://ddsinfotech.tk/Logo.jpg" alt="MacStadium" width="20%" height="20%">
 
