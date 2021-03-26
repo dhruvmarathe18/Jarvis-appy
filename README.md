@@ -21,9 +21,6 @@ The Project will be getting update ASAP (10th Class is going on so be patient)
      Github:   https://github.com/ddsinfotech-offcial/
 
 
-
-
-
 **Note**: Below are instructions for installing and to run `appy.py` for Windows & linux
 
 # Installation on Windows & Linux
