@@ -46,27 +46,14 @@ Below are instructions for installing the basic requirements to build
 **Note**: CMocka, tcpdump, screen, HostAPd and WPA Supplicant should not be dependencies when packaging Aircrack-ng.
 
 # Installation on Windows & HOW TO RUN THE CODE
-### Step 01
+### Steps
       git clone https://github.com/ddsinfotech-offcial/Jarvis-appy.git
-      Cloning into 'Jarvis-appy'...
-      remote: Enumerating objects: 38, done.
-      remote: Counting objects: 100% (38/38), done.
-      remote: Compressing objects: 100% (38/38), done.
-      remote: Total 38 (delta 12), reused 0 (delta 0), pack-reused 0
-      Receiving objects: 100% (38/38), 19.36 KiB | 6.45 MiB/s, done.
-      Resolving deltas: 100% (12/12), done.
+      cd Jarvis-appy
+      pip3.8 install -r requirement.txt
+### Running the program
+      python3 jarvis.py
 
 
-    
-#### CentOS/RHEL 7
-
-    sudo yum install epel-release
-    sudo ./centos_autotools.sh
-    # Remove older installation of automake/autoconf
-    sudo yum remove autoconf automake
-    sudo yum install sqlite-devel openssl-devel libpcap-devel pcre-devel rfkill libnl3-devel ethtool hwloc-devel libcmocka-devel make file expect hostapd wpa_supplicant iw usbutils tcpdump screen zlib-devel
-
-**Note**: autoconf, automake, libtool, and pkgconfig in the repositories are too old. The script centos_autotools.sh automatically installs dependencies to compile then install the tools.
 
 #### CentOS/RHEL 8
 
