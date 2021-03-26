@@ -1,6 +1,7 @@
-THIS IS OFFICIAL PROJECT FROM DDSINFOTECH 
+                                                         THIS IS OFFICIAL PROJECT FROM DDSINFOTECH 
 
 PROJECT NAME -:  THE APPY (AI)
+
 CREATOR -: DHRUV MARATHE
  -----------------------------------------------------------------
 "APPY" is an Artificial model developed by DDSINFOTECH  
