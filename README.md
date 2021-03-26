@@ -1,4 +1,4 @@
-                                             HIS IS OFFICIAL PROJECT FROM DDSINFOTECH
+                                             APPY IS OFFICIAL PROJECT FROM DDSINFOTECH
 
 #PROJECT NAME -:  THE APPY (AI)
 
@@ -20,7 +20,6 @@ Steps for installation
                    next tab
                    etc......	 
 NOTE:- These are all voice command 				
---------------------------Social Media Links----------------------------
 
     Instgram: https://instagram.com/ddsinfotech or https://instagram.com/dhruvmarathe
     Twitter:  https://twitter.com/dhruvmarathe18
