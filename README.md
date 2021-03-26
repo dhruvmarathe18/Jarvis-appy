@@ -73,13 +73,13 @@ Soon will be updated
 
 
 <!--------- Footer -------->
+## Links for Website `DDSINFOTECH`
 
 <div class="footer">
     <div class="container">
         <div class="row">
             </div>
             <div class="footer-col-3">
-                <h3>ALL LINKS FOR WEBSITE </h3>
                 <ul>
                     <li>Home : <a class="links_footer" href="https://ddsinfotech.tk"><br>https://ddsinfotech.tk</a></li><br>
                     <li>My Games : <a class="links_footer" href="https://ddsinfotech.tk/Games"><br>https://ddsinfotech.tk/Games</a></li><br>
@@ -93,16 +93,17 @@ Soon will be updated
                 <h3>Follow Us</h3>
                 <ul>
                     <li><a href="https://en-gb.facebook.com/dhruv.marathe.79">Facebook</li></a>
-                    <li><a href="https://www.instagram.com/dhruvmarathe/">Instagram</li></a> 
-                    <li>Twitter</li>
-                    <li>Telegram </li>
+                    <li><a href="https://www.instagram.com/ddsinfotech/">Instagram</li></a> 
+                    <li><a href="https://www.instagram.com/ddsinfotech/">Twitter</li></a>
+                    <li><a href="https://t.me/ddshacking">Telegram</li></a>
                 </ul>
             </div>
-        </div>
-        <hr>
-        <p class="copyright">Copyright 2020 ~ Dhruv Marathe </p>
+          </div>
+        <hr>                                                       
     </div>
 </div>
+                                                
+                                                     Copyright 2020 ~ Dhruv Marathe  
 
 
 
