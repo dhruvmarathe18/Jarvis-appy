@@ -65,7 +65,7 @@ The Project will be getting update ASAP (10th Class is going on so be patient)
  **Note**: (or) is used for multiple commands 
 
 
-# Documentation
+## Documentation
 
 
 Documentation, tutorials, ... can be found on https://aircrack-ng.org
@@ -74,9 +74,9 @@ See also manpages and the forum.
 
 For further information check the [README](README) file
 
-# Infrastructure sponsors
+# About DDSINFOTECH
 
-<img src="https://ddsinfotech.tk/Logo.jpg" alt="MacStadium" width="150" height="61">
+<img src="https://ddsinfotech.tk/Logo.jpg" alt="MacStadium" width="20%" height="20%">
 
 
 
