@@ -1,4 +1,4 @@
-                                                        THIS IS OFFICIAL PROJECT FROM DDSINFOTECH 
+                                             THIS IS OFFICIAL PROJECT FROM DDSINFOTECH 
 
 PROJECT NAME -:  THE APPY (AI)
 
