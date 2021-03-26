@@ -1,15 +1,16 @@
-                                             APPY IS OFFICIAL PROJECT FROM DDSINFOTECH
+                                            OFFICIAL PROJECT FROM DDSINFOTECH https://instagram.com/ddsinfotech
+                                            
+# THE APPY `(Artificial Intelligence Model)`
 
-#PROJECT NAME -:  THE APPY (AI)
+## Developer 
+   DHRUV MARATHE 
+## What is APPY ?
 
-CREATOR -: DHRUV MARATHE
-# What is APPY
-
-APPY is an Artificial model developed by DDSINFOTECH  
-APPY can serve you with the daily tasks and many more things 
+APPY is an Artificial Intelligence model developed by DDSINFOTECH 
+APPY can serve you with the daily tasks and many more things.
 The Project will be getting update ASAP (10th Class is going on so be patient)
 
-# Social Media				
+## Social Media	Links 			
 
     Instgram: https://instagram.com/ddsinfotech or https://instagram.com/dhruvmarathe
     Twitter:  https://twitter.com/dhruvmarathe18
@@ -23,7 +24,7 @@ The Project will be getting update ASAP (10th Class is going on so be patient)
 
 
 
-**Note**: Below are instructions for installing the basic requirements to run `appy.py` for Windows & linux
+**Note**: Below are instructions for installing and to run `appy.py` for Windows & linux
 
 # Installation on Windows & Linux
 ### Steps
@@ -31,7 +32,7 @@ The Project will be getting update ASAP (10th Class is going on so be patient)
       cd Jarvis-appy
       pip3.8 install -r requirement.txt
 ### Running the program
-      python3 jarvis.py or python jarvis.py
+      python3 appy.py or python appy.py
 
 # Commands
 
