@@ -20,7 +20,7 @@ The Project will be getting update ASAP (10th Class is going on so be patient)
                     <li><a href="https://in.linkedin.com/in/dds-infotech-a274581b8">Linkden</li></a>
                     <li><a href="https://www.youtube.com/channel/UCi9eDPoQktxRL6VRsJVJrgQ/videos">Youtube</li></a>
                     <li><a href="https://ddsinfotech.tk">website</li></a>
-                    <li><a href="https://github.com/ddsinfotech-offcial/">Github</li></a>
+                    <li><a href="https://github.com/dhruvmarathe18">Github</li></a>
                     <li><a href="https://t.me/ddshacking">Telegram</li></a>
                 </ul>
             </div>
