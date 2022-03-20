@@ -32,7 +32,7 @@ THIS ARE ALL VOICE COMMAND
 23 :- read pdf (pdf should be there in main folder for these command)
 24 :- location
 ----------------------------------------------------------------------------------------------------------------
-{Above List will get update soon. Contact me at my Social Media Flat Form if some problem occurs :
+{Above List will get updated soon. Contact me at my Social Media Flat Form if some problem occurs :
 
     Instgram: https://instagram.com/ddsinfotech or https://instagram.com/dhruvmarathe
     Twitter:  https://twitter.com/dhruvmarathe18
